@@ -21,7 +21,7 @@
     "@tagspaces/extensions": "1.0.146",
     "@tagspaces/tagspaces-common-node": "4.5.43",
     "@tagspaces/tagspaces-ws": "4.5.43",
-    "sharp": "0.32.6",
+    "sharp": "0.33.5",
     "ws": "8.16.0"
   },
   "optionalDependencies": {
