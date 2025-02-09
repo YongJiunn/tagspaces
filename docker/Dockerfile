@@ -1,4 +1,4 @@
-FROM nginx:1.27.1-alpine
+FROM nginx:1.27.4-alpine
 LABEL org.opencontainers.image.title="TagSpaces Web"
 LABEL org.opencontainers.image.description="Official Docker image for TagSpaces"
 LABEL org.opencontainers.image.url="https://www.tagspaces.org"
